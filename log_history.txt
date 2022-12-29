@@ -1,0 +1,448 @@
+******** Log start (2022-11-22 10:05:34) ********
+
+3.5 :: 0000d00h00m00.000s :: 2022-11-22 10:05:43.079 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d00h00m00.000s :: 2022-11-22 10:05:43.947 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d00h00m00.000s :: 2022-11-22 10:05:43.947 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d00h00m00.000s :: 2022-11-22 10:05:43.948 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d00h00m00.000s :: 2022-11-22 10:05:44.246 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+******** Log end (2022-11-23 02:32:45) ********
+
+******** Log start (2022-11-23 10:06:18) ********
+
+3.5 :: 0000d01h01m46.885s :: 2022-11-23 10:06:27.800 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d01h01m46.885s :: 2022-11-23 10:06:28.240 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d01h01m46.885s :: 2022-11-23 10:06:28.240 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d01h01m46.885s :: 2022-11-23 10:06:28.374 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d01h01m46.885s :: 2022-11-23 10:06:28.379 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d01h09m21.299s :: 2022-11-23 10:16:45.807 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d01h09m35.286s :: 2022-11-23 10:16:45.927 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d01h09m55.750s :: 2022-11-23 10:17:10.914 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d01h10m43.209s :: 2022-11-23 10:18:28.135 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d01h10m57.090s :: 2022-11-23 10:18:28.203 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d01h11m04.624s :: 2022-11-23 10:18:36.661 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d01h11m25.458s :: 2022-11-23 10:19:06.046 :: -3 :: C0A0:0 :: null :: 1 :: Modbus signal "MODBUS_1: Modbus exception   for function code 1 ::  :: null
+3.5 :: 0000d01h11m44.860s :: 2022-11-23 10:19:39.859 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 does not :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 does not! :: null
+3.5 :: 0000d01h12m40.797s :: 2022-11-23 10:21:02.017 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d01h12m54.696s :: 2022-11-23 10:21:02.097 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d01h12m54.710s :: 2022-11-23 10:21:02.101 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d01h12m55.980s :: 2022-11-23 10:21:03.615 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> paused :: null
+3.5 :: 0000d01h12m58.578s :: 2022-11-23 10:21:06.524 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d01h14m24.677s :: 2022-11-23 10:23:12.402 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d01h14m38.596s :: 2022-11-23 10:23:12.433 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d01h14m38.610s :: 2022-11-23 10:23:12.433 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d01h14m49.034s :: 2022-11-23 10:23:25.228 :: -3 :: C0A0:0 :: null :: 1 :: Modbus signal "StatusReady: Modbus exception   for function code 6 ::  :: null
+3.5 :: 0000d01h14m52.250s :: 2022-11-23 10:23:33.501 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d01h14m53.785s :: 2022-11-23 10:24:01.199 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d01h15m07.654s :: 2022-11-23 10:24:01.268 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d01h15m07.668s :: 2022-11-23 10:24:01.271 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d01h15m18.228s :: 2022-11-23 10:24:14.114 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d01h28m09.291s :: 2022-11-23 10:41:47.625 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h28m23.214s :: 2022-11-23 10:41:47.768 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h28m23.218s :: 2022-11-23 10:41:47.777 :: -3 :: C0A0:10 :: null :: 1 :: variable_is_uninitialized:ReadyPLC: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>If ReadyPLC</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>If</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 2</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 76, column 9</p><pre>... ;;   $ 3 &quot;Call PickUpLens&quot; ;;   PickUpLens() ;;   thread_flag_2 = 1 ;; end ;; <b>if (<font color=red>ReadyPLC):</font></b> ;;   global thread_handler_2=run Thread_if_2() ;;   while (thread_flag_2 == 0): ;; ... ;; </pre></div></html>
+3.5 :: 0000d01h28m23.222s :: 2022-11-23 10:41:48.091 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h28m30.429s :: 2022-11-23 10:42:15.108 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h28m44.318s :: 2022-11-23 10:42:15.173 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h28m44.322s :: 2022-11-23 10:42:15.174 :: -3 :: C0A0:10 :: null :: 1 :: variable_is_uninitialized:ReadyPLC: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>If ReadyPLC</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>If</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 2</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 76, column 9</p><pre>... ;;   $ 3 &quot;Call PickUpLens&quot; ;;   PickUpLens() ;;   thread_flag_2 = 1 ;; end ;; <b>if (<font color=red>ReadyPLC):</font></b> ;;   global thread_handler_2=run Thread_if_2() ;;   while (thread_flag_2 == 0): ;; ... ;; </pre></div></html>
+3.5 :: 0000d01h28m44.326s :: 2022-11-23 10:42:15.184 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h28m44.517s :: 2022-11-23 10:42:31.905 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h28m58.446s :: 2022-11-23 10:42:32.005 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h28m58.450s :: 2022-11-23 10:42:32.006 :: -3 :: C0A0:10 :: null :: 1 :: variable_is_uninitialized:ReadyPLC: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>If ReadyPLC</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>If</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 2</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 76, column 9</p><pre>... ;;   $ 3 &quot;Call PickUpLens&quot; ;;   PickUpLens() ;;   thread_flag_2 = 1 ;; end ;; <b>if (<font color=red>ReadyPLC):</font></b> ;;   global thread_handler_2=run Thread_if_2() ;;   while (thread_flag_2 == 0): ;; ... ;; </pre></div></html>
+3.5 :: 0000d01h28m58.454s :: 2022-11-23 10:42:32.023 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h28m55.465s :: 2022-11-23 10:42:44.422 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h29m09.418s :: 2022-11-23 10:42:44.523 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h29m09.422s :: 2022-11-23 10:42:44.524 :: -3 :: C0A0:10 :: null :: 1 :: variable_is_uninitialized:ReadyPLC: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>If ReadyPLC</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>If</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 2</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 76, column 9</p><pre>... ;;   $ 3 &quot;Call PickUpLens&quot; ;;   PickUpLens() ;;   thread_flag_2 = 1 ;; end ;; <b>if (<font color=red>ReadyPLC):</font></b> ;;   global thread_handler_2=run Thread_if_2() ;;   while (thread_flag_2 == 0): ;; ... ;; </pre></div></html>
+3.5 :: 0000d01h29m09.426s :: 2022-11-23 10:42:44.547 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h29m23.247s :: 2022-11-23 10:43:20.682 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 10:43:18) :: null
+3.5 :: 0000d01h29m37.196s :: 2022-11-23 10:43:20.783 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h29m37.200s :: 2022-11-23 10:43:20.785 :: -3 :: C0A0:10 :: null :: 1 :: variable_is_uninitialized:ReadyPLC: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>If ReadyPLC</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>If</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 2</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 78, column 9</p><pre>... ;;   $ 3 &quot;Call PickUpLens&quot; ;;   PickUpLens() ;;   thread_flag_2 = 1 ;; end ;; <b>if (<font color=red>ReadyPLC):</font></b> ;;   global thread_handler_2=run Thread_if_2() ;;   while (thread_flag_2 == 0): ;; ... ;; </pre></div></html>
+3.5 :: 0000d01h29m37.204s :: 2022-11-23 10:43:20.800 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h29m48.037s :: 2022-11-23 10:43:53.104 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h30m01.938s :: 2022-11-23 10:43:53.155 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h30m01.942s :: 2022-11-23 10:43:53.155 :: -3 :: C0A0:10 :: null :: 1 :: variable_is_uninitialized:ReadyPLC: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>If ReadyPLC</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>If</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 2</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 72, column 9</p><pre>... ;; threadId_Thread_1 = run Thread_1() ;; while (True): ;;   $ 1 &quot;Robot Program&quot; ;;   $ 2 &quot;If ReadyPLC&quot; ;; <b>  if (<font color=red>ReadyPLC):</font></b> ;;     $ 3 &quot;Call PickUpLens&quot; ;;     PickUpLens() ;; ... ;; </pre></div></html>
+3.5 :: 0000d01h30m01.946s :: 2022-11-23 10:43:53.169 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h30m22.799s :: 2022-11-23 10:44:34.848 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 10:44:33) :: null
+3.5 :: 0000d01h30m36.696s :: 2022-11-23 10:44:34.951 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h30m36.702s :: 2022-11-23 10:44:34.953 :: -3 :: C0A0:10 :: null :: 1 :: type_mismatch:Bool:Int: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>ReadyPLC≔read_port_register(1)</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>Assignment</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 19</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 68, column 14</p><pre>... ;; sync() ;; $ 18 &quot;'##### PLC Register Update #####'&quot; ;; # '##### PLC Register Update #####' ;; $ 19 &quot;ReadyPLC≔read_port_register(1)&quot; ;; <b>global <font color=red>ReadyPLC= read_port_register (1)</font></b> ;; $ 20 &quot;ReadPickUp≔read_port_register(2)&quot; ;; global ReadPickUp= read_port_register (2) ;; ... ;; </pre></div></html>
+3.5 :: 0000d01h30m36.706s :: 2022-11-23 10:44:34.988 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h30m45.427s :: 2022-11-23 10:45:02.612 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h30m59.298s :: 2022-11-23 10:45:02.698 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h31m04.574s :: 2022-11-23 10:45:08.735 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h30m55.939s :: 2022-11-23 10:45:17.828 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h31m09.838s :: 2022-11-23 10:45:17.856 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h31m09.852s :: 2022-11-23 10:45:17.974 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d01h31m16.198s :: 2022-11-23 10:45:25.410 :: -3 :: C0A0:10 :: null :: 1 :: unsupported_operand:'not':Int: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>If ReadyPLC</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>If</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 6</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 88, column 12</p><pre>... ;; end ;; if (ReadyPLC): ;;   global thread_handler_6=run Thread_if_6() ;;   while (thread_flag_6 == 0): ;; <b>    if <font color=red>not(ReadyPLC):</font></b> ;;       kill thread_handler_6 ;;       thread_flag_6 = 2 ;; ... ;; </pre></div></html>
+3.5 :: 0000d01h31m16.202s :: 2022-11-23 10:45:25.420 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h32m47.586s :: 2022-11-23 10:48:11.437 :: -3 :: C0A0:0 :: null :: 1 :: Modbus signal "mb_PickReady: Modbus exception   for function code 5 ::  :: null
+3.5 :: 0000d01h32m47.686s :: 2022-11-23 10:48:11.753 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal mb_PickReady retu :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal mb_PickReady retu! :: null
+3.5 :: 0000d01h32m51.666s :: 2022-11-23 10:48:21.667 :: -3 :: C0A0:0 :: null :: 1 :: Modbus signal "mb_PLCReady: Modbus exception   for function code 5 ::  :: null
+3.5 :: 0000d01h32m51.920s :: 2022-11-23 10:48:21.971 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal mb_PLCReady retur :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal mb_PLCReady retur! :: null
+3.5 :: 0000d01h32m52.292s :: 2022-11-23 10:48:22.575 :: -3 :: C0A0:0 :: null :: 1 :: Modbus signal "mb_PickReady: Modbus exception   for function code 5 ::  :: null
+3.5 :: 0000d01h32m52.984s :: 2022-11-23 10:48:23.479 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal mb_PickReady retu :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal mb_PickReady retu! :: null
+3.5 :: 0000d01h35m32.528s :: 2022-11-23 10:51:47.326 :: -3 :: C0A0:0 :: null :: 1 :: Modbus signal "mb_PLCReady: Modbus exception   for function code 5 ::  :: null
+3.5 :: 0000d01h35m33.808s :: 2022-11-23 10:51:48.836 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal mb_PLCReady retur :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal mb_PLCReady retur! :: null
+3.5 :: 0000d01h36m47.049s :: 2022-11-23 10:53:38.191 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 10:53:33) :: null
+3.5 :: 0000d01h37m00.954s :: 2022-11-23 10:53:38.354 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h37m00.968s :: 2022-11-23 10:53:38.375 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d01h37m44.994s :: 2022-11-23 10:54:34.801 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h37m55.709s :: 2022-11-23 10:55:05.673 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 10:55:01) :: null
+3.5 :: 0000d01h38m09.658s :: 2022-11-23 10:55:05.777 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h38m09.672s :: 2022-11-23 10:55:05.777 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d01h38m52.188s :: 2022-11-23 10:56:01.283 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h38m57.447s :: 2022-11-23 10:56:29.448 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 10:56:23) :: null
+3.5 :: 0000d01h39m11.334s :: 2022-11-23 10:56:29.606 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h39m42.984s :: 2022-11-23 10:57:14.315 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d01h40m27.256s :: 2022-11-23 10:58:12.157 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h40m18.319s :: 2022-11-23 10:58:17.989 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h40m32.264s :: 2022-11-23 10:58:18.138 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h40m49.608s :: 2022-11-23 10:58:39.539 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h40m45.611s :: 2022-11-23 10:58:53.520 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h40m59.528s :: 2022-11-23 10:58:53.660 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h41m02.274s :: 2022-11-23 10:58:59.388 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h41m01.679s :: 2022-11-23 10:59:17.227 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 10:59:15) :: null
+3.5 :: 0000d01h41m15.556s :: 2022-11-23 10:59:17.266 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h41m30.128s :: 2022-11-23 10:59:37.252 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h41m19.615s :: 2022-11-23 10:59:41.101 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h41m33.562s :: 2022-11-23 10:59:41.202 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h41m37.366s :: 2022-11-23 10:59:45.438 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h42m32.769s :: 2022-11-23 11:01:11.254 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 11:01:01) :: null
+3.5 :: 0000d01h42m46.700s :: 2022-11-23 11:01:11.276 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h42m54.584s :: 2022-11-23 11:01:20.248 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d01h43m13.950s :: 2022-11-23 11:01:42.903 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h43m07.487s :: 2022-11-23 11:01:51.276 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h43m21.460s :: 2022-11-23 11:01:51.376 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h43m53.146s :: 2022-11-23 11:02:28.967 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h45m18.749s :: 2022-11-23 11:04:28.355 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Unsaved) :: null
+3.5 :: 0000d01h45m32.716s :: 2022-11-23 11:04:28.480 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h46m08.050s :: 2022-11-23 11:05:18.340 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h46m28.993s :: 2022-11-23 11:06:06.008 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 11:06:04) :: null
+3.5 :: 0000d01h46m42.904s :: 2022-11-23 11:06:06.114 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h46m53.864s :: 2022-11-23 11:06:29.373 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h46m42.291s :: 2022-11-23 11:06:32.075 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 11:06:04) :: null
+3.5 :: 0000d01h46m56.222s :: 2022-11-23 11:06:32.202 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h47m04.664s :: 2022-11-23 11:06:42.074 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h47m00.167s :: 2022-11-23 11:06:54.002 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 11:06:04) :: null
+3.5 :: 0000d01h47m14.120s :: 2022-11-23 11:06:54.105 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h47m23.180s :: 2022-11-23 11:07:04.298 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+3.5 :: 0000d01h49m33.807s :: 2022-11-23 11:10:29.077 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Transition_PickandPlace_ver1 starting... (Last saved: 2022-11-23 11:10:27) :: null
+3.5 :: 0000d01h49m47.728s :: 2022-11-23 11:10:29.245 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 started :: null
+3.5 :: 0000d01h50m23.584s :: 2022-11-23 11:11:10.519 :: -3 :: C0A0:7 :: null :: 1 :: Transition_PickandPlace_ver1 :: Program Transition_PickandPlace_ver1 stopped :: null
+******** Log end (2022-11-23 11:11:54) ********
+
+******** Log start (2022-12-06 05:02:20) ********
+
+3.5 :: 0000d01h50m33.211s :: 2022-12-06 05:02:30.089 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d01h50m33.211s :: 2022-12-06 05:02:30.091 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d01h50m33.211s :: 2022-12-06 05:02:30.119 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d01h50m33.211s :: 2022-12-06 05:02:30.232 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d01h50m33.211s :: 2022-12-06 05:02:30.288 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+******** Log start (2022-12-07 03:07:43) ********
+
+******** Log start (2022-12-07 03:07:42) ********
+
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.267 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.267 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.347 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.348 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.384 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+******** Log end (2022-12-07 03:08:19) ********
+
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:00.699 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.672 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.672 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.673 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d04h50m17.613s :: 2022-12-07 03:08:01.840 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d05h31m54.574s :: 2022-12-07 03:56:19.775 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d05h31m25.555s :: 2022-12-07 03:56:20.421 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: EF66A7AC :: null
+3.5 :: 0000d05h31m27.113s :: 2022-12-07 03:56:22.785 :: -5 :: C0A0:7 :: null :: 1 ::  :: User mode changed from Manual to Automatic :: null
+******** Log end (2022-12-07 03:58:28) ********
+
+******** Log start (2022-12-07 04:33:09) ********
+
+3.5 :: 0000d05h33m14.665s :: 2022-12-07 04:33:18.312 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: ???? : UNDEFINED ::  :: null
+******** Log end (2022-12-07 04:34:37) ********
+
+******** Log start (2022-12-07 04:35:15) ********
+
+******** Log start (2022-12-07 08:20:43) ********
+
+3.5 :: 0000d05h33m14.665s :: 2022-12-07 08:20:51.112 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d05h33m14.665s :: 2022-12-07 08:20:51.276 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d05h33m14.665s :: 2022-12-07 08:20:51.277 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d05h33m14.665s :: 2022-12-07 08:20:51.277 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d05h33m14.665s :: 2022-12-07 08:20:51.400 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d05h51m48.467s :: 2022-12-07 08:44:29.231 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d05h52m02.624s :: 2022-12-07 08:44:29.356 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d05h52m07.872s :: 2022-12-07 08:44:35.491 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+******** Log end (2022-12-07 11:15:30) ********
+
+******** Log start (2022-12-09 04:12:36) ********
+
+3.5 :: 0000d07h25m13.889s :: 2022-12-09 04:12:45.565 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d07h25m13.889s :: 2022-12-09 04:12:45.635 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d07h25m13.889s :: 2022-12-09 04:12:45.884 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d07h25m13.889s :: 2022-12-09 04:12:45.886 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d07h25m13.889s :: 2022-12-09 04:12:46.011 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d08h05m50.862s :: 2022-12-09 04:59:48.761 :: -3 :: C0A0:7 :: null :: 1 :: movel :: Program movel started :: null
+3.5 :: 0000d08h05m51.366s :: 2022-12-09 04:59:49.363 :: -3 :: C0A0:7 :: null :: 1 :: movel :: Program movel stopped :: null
+3.5 :: 0000d08h06m21.989s :: 2022-12-09 05:00:42.216 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h06m36.114s :: 2022-12-09 05:00:42.406 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h37m43.944s :: 2022-12-09 07:44:53.140 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h40m32.089s :: 2022-12-09 07:48:52.466 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h40m47.008s :: 2022-12-09 07:48:55.022 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h40m47.022s :: 2022-12-09 07:48:55.246 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h41m45.224s :: 2022-12-09 07:50:05.049 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h41m33.049s :: 2022-12-09 07:50:07.115 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h41m47.234s :: 2022-12-09 07:50:07.356 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h41m47.248s :: 2022-12-09 07:50:07.476 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h43m01.656s :: 2022-12-09 07:51:33.840 :: -3 :: C221A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h43m34.396s :: 2022-12-09 07:52:11.865 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h43m58.491s :: 2022-12-09 07:52:57.230 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h44m12.796s :: 2022-12-09 07:52:57.678 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h44m12.810s :: 2022-12-09 07:52:57.688 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h46m36.730s :: 2022-12-09 07:55:42.350 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h47m09.787s :: 2022-12-09 07:56:37.992 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h47m24.082s :: 2022-12-09 07:56:38.426 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h47m24.096s :: 2022-12-09 07:56:38.433 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h47m35.074s :: 2022-12-09 07:56:51.088 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h47m24.023s :: 2022-12-09 07:56:54.600 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h47m38.346s :: 2022-12-09 07:56:55.058 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h47m38.360s :: 2022-12-09 07:56:55.061 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h47m42.158s :: 2022-12-09 07:56:59.299 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+******** Log end (2022-12-09 10:53:54) ********
+
+******** Log start (2022-12-12 04:00:12) ********
+
+3.5 :: 0000d08h52m33.335s :: 2022-12-12 04:00:20.423 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d08h52m33.335s :: 2022-12-12 04:00:20.585 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d08h52m33.335s :: 2022-12-12 04:00:20.585 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d08h52m33.335s :: 2022-12-12 04:00:20.585 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d08h52m33.335s :: 2022-12-12 04:00:20.719 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d08h55m18.651s :: 2022-12-12 04:03:50.868 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h55m30.736s :: 2022-12-12 04:03:51.265 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h55m30.750s :: 2022-12-12 04:03:51.273 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h55m39.622s :: 2022-12-12 04:04:02.350 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h55m45.084s :: 2022-12-12 04:04:09.314 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 does not :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 does not! :: null
+3.5 :: 0000d08h55m47.606s :: 2022-12-12 04:04:12.349 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 does not :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 does not! :: null
+3.5 :: 0000d08h55m52.183s :: 2022-12-12 04:04:31.789 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h56m04.210s :: 2022-12-12 04:04:32.000 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h56m04.224s :: 2022-12-12 04:04:32.002 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h56m10.146s :: 2022-12-12 04:04:39.175 :: -3 :: C0A0:0 :: null :: 1 :: Modbus signal "MODBUS_1: Modbus exception   for function code 6 ::  :: null
+3.5 :: 0000d08h56m21.726s :: 2022-12-12 04:04:53.934 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h56m21.836s :: 2022-12-12 04:04:54.025 :: -3 :: C0A0:0 :: null :: 1 :: Modbus signal "MODBUS_1: Modbus exception   for function code 1 ::  :: null
+3.5 :: 0000d08h56m12.781s :: 2022-12-12 04:04:57.271 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h56m24.756s :: 2022-12-12 04:04:57.446 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h56m24.770s :: 2022-12-12 04:04:57.550 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h56m25.966s :: 2022-12-12 04:04:58.959 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 returned :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 returned! :: null
+3.5 :: 0000d08h56m26.706s :: 2022-12-12 04:04:59.764 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 returned :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 returned! :: null
+3.5 :: 0000d08h56m26.922s :: 2022-12-12 04:05:00.066 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 returned :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 returned! :: null
+3.5 :: 0000d08h56m30.050s :: 2022-12-12 04:05:03.912 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 returned :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 returned! :: null
+3.5 :: 0000d08h56m30.234s :: 2022-12-12 04:05:04.112 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 returned :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 returned! :: null
+3.5 :: 0000d08h56m30.410s :: 2022-12-12 04:05:04.314 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 returned :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 returned! :: null
+3.5 :: 0000d08h56m30.600s :: 2022-12-12 04:05:04.515 :: -3 :: C0A0:7 :: null :: 1 :: MODBUS Signal MODBUS_1 returned :: !SECONDARY_PROGRAM_EXCEPTION_MODBUS Signal MODBUS_1 returned! :: null
+3.5 :: 0000d08h56m32.272s :: 2022-12-12 04:05:06.640 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h58m36.621s :: 2022-12-12 04:07:51.842 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h58m48.498s :: 2022-12-12 04:07:51.917 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h58m48.512s :: 2022-12-12 04:07:51.918 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d08h58m59.450s :: 2022-12-12 04:08:05.086 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d08h58m59.797s :: 2022-12-12 04:08:19.286 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d08h59m11.774s :: 2022-12-12 04:08:19.506 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d08h59m11.788s :: 2022-12-12 04:08:19.506 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d11h08m51.484s :: 2022-12-12 06:40:36.651 :: -3 :: C221A0:6 :: null :: 2 ::  ::  :: 0
+******** Log end (2022-12-12 06:40:54) ********
+
+******** Log start (2022-12-16 11:17:29) ********
+
+3.5 :: 0000d11h08m38.071s :: 2022-12-16 11:17:41.269 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d11h08m38.071s :: 2022-12-16 11:17:41.325 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d11h08m38.071s :: 2022-12-16 11:17:41.582 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d11h08m38.071s :: 2022-12-16 11:17:41.584 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d11h08m38.071s :: 2022-12-16 11:17:41.743 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d11h09m12.750s :: 2022-12-16 11:18:07.356 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d11h08m56.989s :: 2022-12-16 11:18:07.484 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+******** Log end (2022-12-16 11:25:10) ********
+
+******** Log start (2022-12-19 03:19:27) ********
+
+3.5 :: 0000d11h14m48.927s :: 2022-12-19 03:19:36.450 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d11h14m48.927s :: 2022-12-19 03:19:36.943 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d11h14m48.927s :: 2022-12-19 03:19:36.943 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d11h14m48.927s :: 2022-12-19 03:19:36.943 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d11h14m48.927s :: 2022-12-19 03:19:37.086 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d11h33m50.329s :: 2022-12-19 03:42:10.705 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d11h34m03.768s :: 2022-12-19 03:42:10.962 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d11h34m03.782s :: 2022-12-19 03:42:11.078 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d11h34m50.004s :: 2022-12-19 03:43:08.183 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d11h38m17.435s :: 2022-12-19 03:47:25.520 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d11h38m30.838s :: 2022-12-19 03:47:25.640 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d11h38m30.852s :: 2022-12-19 03:47:25.642 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d11h39m10.408s :: 2022-12-19 03:48:12.426 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d11h39m31.005s :: 2022-12-19 03:48:53.782 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d11h39m31.081s :: 2022-12-19 03:48:53.919 :: -3 :: C0A0:10 :: null :: 1 :: compile_error_name_not_found:int: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'><div style="width:350px">Stack_Count≔int(((get_analog_out(0)*1000)*-6.39336...</div></td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>Assignment</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 2</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 40, column 24</p><pre>... ;;   run Step_Counter_Thread_5762e0c8_8d94_443d_ab87_957d71adac10() ;;   while (True): ;;     $ 1 &quot;Robot Program&quot; ;;     $ 2 &quot;Stack_Count≔int(((get_analog_out(0)*1000)*-6.3933696)+57.7920333)&quot; ;; <b>    global Stack_Count=<font color=red>int(((get_analog_out(0)*1000)*-6.3933696)+57.7920333)</font></b> ;;   end ;; end ;; </pre></div></html>
+3.5 :: 0000d11h41m02.217s :: 2022-12-19 03:50:44.925 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Test_Analog starting... (Unsaved) :: null
+3.5 :: 0000d11h41m02.217s :: 2022-12-19 03:50:44.926 :: -3 :: C0A0:10 :: null :: 1 :: compile_error_name_not_found:int: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>Script: TestFunct.script</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>Script</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 3</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 42, column 14</p><pre>... ;;     $ 1 &quot;Robot Program&quot; ;;     $ 2 &quot;Stack_Count≔((get_analog_out(0)*1000)*-6.3933696)+57.7920333&quot; ;;     global Stack_Count=((get_analog_out(0)*1000)*-6.3933696)+57.7920333 ;;     $ 3 &quot;Script: TestFunct.script&quot; ;; <b>    Count1 = <font color=red>int(1.55)</font></b> ;;   end ;; end ;; </pre></div></html>
+3.5 :: 0000d11h43m26.419s :: 2022-12-19 03:53:36.946 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Test_Analog starting... (Unsaved) :: null
+3.5 :: 0000d11h43m39.818s :: 2022-12-19 03:53:37.052 :: -3 :: C0A0:7 :: null :: 1 :: Test_Analog :: Program Test_Analog started :: null
+3.5 :: 0000d11h43m39.832s :: 2022-12-19 03:53:37.052 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d11h43m51.206s :: 2022-12-19 03:53:50.764 :: -3 :: C0A0:7 :: null :: 1 :: Test_Analog :: Program Test_Analog stopped :: null
+3.5 :: 0000d11h43m58.781s :: 2022-12-19 03:54:15.219 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program Test_Analog starting... (Last saved: 2022-12-19 03:54:14) :: null
+3.5 :: 0000d11h44m12.162s :: 2022-12-19 03:54:15.221 :: -3 :: C0A0:7 :: null :: 1 :: Test_Analog :: Program Test_Analog started :: null
+3.5 :: 0000d11h44m12.176s :: 2022-12-19 03:54:15.330 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d11h46m18.294s :: 2022-12-19 03:56:43.402 :: -3 :: C0A0:7 :: null :: 1 :: Test_Analog :: Program Test_Analog stopped :: null
+******** Log end (2022-12-19 04:06:29) ********
+
+******** Log start (2022-12-19 05:24:48) ********
+
+3.5 :: 0000d11h54m10.921s :: 2022-12-19 05:24:56.770 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d11h54m10.921s :: 2022-12-19 05:24:56.824 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d11h54m10.921s :: 2022-12-19 05:24:56.824 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d11h54m10.921s :: 2022-12-19 05:24:56.824 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d11h54m10.921s :: 2022-12-19 05:24:56.938 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d14h18m40.867s :: 2022-12-19 08:18:27.237 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d14h18m53.608s :: 2022-12-19 08:18:27.978 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d14h18m53.622s :: 2022-12-19 08:18:28.389 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d14h18m55.966s :: 2022-12-19 08:18:32.674 :: -3 :: C0A0:10 :: null :: 1 :: variable_is_uninitialized:var_1: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>var_1≔var_1+1</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>Assignment</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 3</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 42, column 20</p><pre>... ;;   $ 1 &quot;Robot Program&quot; ;;   $ 2 &quot;If digital_out[0]≟ True &quot; ;;   if (get_standard_digital_out(0) ==   True  ): ;;     $ 3 &quot;var_1≔var_1+1&quot; ;; <b>    global var_1=<font color=red>var_1+1</font></b> ;;   end ;; end ;; </pre></div></html>
+3.5 :: 0000d14h18m55.970s :: 2022-12-19 08:18:33.699 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d14h22m21.927s :: 2022-12-19 08:23:03.738 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d14h22m34.610s :: 2022-12-19 08:23:03.880 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d14h22m34.624s :: 2022-12-19 08:23:03.881 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d14h22m43.900s :: 2022-12-19 08:23:15.388 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d14h23m00.067s :: 2022-12-19 08:23:51.056 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d14h23m12.816s :: 2022-12-19 08:23:51.257 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d14h23m12.830s :: 2022-12-19 08:23:51.261 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d14h23m26.154s :: 2022-12-19 08:24:08.366 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d14h24m13.437s :: 2022-12-19 08:25:20.284 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d14h24m26.076s :: 2022-12-19 08:25:20.409 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d14h24m26.090s :: 2022-12-19 08:25:20.409 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d14h24m57.648s :: 2022-12-19 08:26:00.832 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d14h28m29.295s :: 2022-12-19 08:30:27.427 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d14h28m41.930s :: 2022-12-19 08:30:27.486 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d14h28m41.944s :: 2022-12-19 08:30:27.486 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d14h28m51.140s :: 2022-12-19 08:30:39.226 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d14h31m02.991s :: 2022-12-19 08:33:29.679 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d14h31m15.660s :: 2022-12-19 08:33:29.844 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d14h31m15.674s :: 2022-12-19 08:33:29.844 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d14h31m44.874s :: 2022-12-19 08:34:06.181 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d14h31m36.789s :: 2022-12-19 08:34:11.626 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d14h31m49.476s :: 2022-12-19 08:34:11.727 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d14h31m49.490s :: 2022-12-19 08:34:11.728 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d14h32m05.242s :: 2022-12-19 08:34:30.167 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d14h32m12.793s :: 2022-12-19 08:34:53.733 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d14h32m25.424s :: 2022-12-19 08:34:53.797 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d14h32m25.438s :: 2022-12-19 08:34:53.872 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d14h32m33.846s :: 2022-12-19 08:35:03.867 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+******** Log start (2022-12-21 02:48:02) ********
+
+3.5 :: 0000d15h53m58.497s :: 2022-12-21 02:48:18.757 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d15h53m58.497s :: 2022-12-21 02:48:18.763 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d15h53m58.497s :: 2022-12-21 02:48:18.878 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d15h53m58.497s :: 2022-12-21 02:48:18.881 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d15h53m58.497s :: 2022-12-21 02:48:18.938 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+******** Log end (2022-12-21 02:55:07) ********
+
+******** Log start (2022-12-21 02:58:12) ********
+
+3.5 :: 0000d15h58m41.293s :: 2022-12-21 02:58:21.519 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d15h58m41.293s :: 2022-12-21 02:58:21.520 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d15h58m41.293s :: 2022-12-21 02:58:21.719 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d15h58m41.293s :: 2022-12-21 02:58:21.720 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d15h58m41.293s :: 2022-12-21 02:58:21.852 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d16h12m00.822s :: 2022-12-21 03:15:38.863 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d16h11m44.105s :: 2022-12-21 03:15:39.031 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d16h45m47.085s :: 2022-12-21 03:55:01.217 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Unsaved) :: null
+3.5 :: 0000d16h46m04.002s :: 2022-12-21 03:55:01.537 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h46m04.008s :: 2022-12-21 03:55:01.721 :: -3 :: C0A0:10 :: null :: 1 :: variable_is_uninitialized:FUNCT_COMPLETE: ::  :: <html><table ><tr ><td valign='top'>Program node:</td><td valign='top'>write_output_boolean_register(2,FUNCT_COMPLETE)</td></tr><tr ><td valign='top'>Program node type:</td><td valign='top'>Script</td></tr><tr ><td valign='top'>Error position:</td><td valign='top'>line 53</td></tr></table><br/><p><b>Script Code</b></p><div style="padding-top:8px;padding-left:15px;padding-bottom:0px;padding-right:0px;"><p>Error position: line 214, column 39</p><pre>... ;; $ 51 &quot;### BOOL_ROBOT_TO_PLC ###&quot; ;; $ 52 &quot;write_output_boolean_register(1,ROBOT_HOME_POSE)&quot; ;; write_output_boolean_register(1,ROBOT_HOME_POSE) ;; $ 53 &quot;write_output_boolean_register(2,FUNCT_COMPLETE)&quot; ;; <b>write_output_boolean_register(2,<font color=red>FUNCT_COMPLETE)</font></b> ;; $ 54 &quot;### INT_ROBOT_TO_PLC ###&quot; ;; $ 55 &quot;write_output_integer_register(1,COUNT_PALLET)&quot; ;; ... ;; </pre></div></html>
+3.5 :: 0000d16h46m04.012s :: 2022-12-21 03:55:02.135 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h46m21.141s :: 2022-12-21 03:55:42.763 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 03:55:40) :: null
+3.5 :: 0000d16h46m38.204s :: 2022-12-21 03:55:43.588 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h46m38.308s :: 2022-12-21 03:55:43.860 :: -2 :: C207A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d16h46m38.308s :: 2022-12-21 03:55:43.947 :: -3 :: C207A0:5 :: 3 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h46m38.334s :: 2022-12-21 03:55:44.013 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 paused :: null
+3.5 :: 0000d16h46m41.010s :: 2022-12-21 03:55:47.130 :: -2 :: C0A0:5 :: 1 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h46m47.060s :: 2022-12-21 03:56:01.616 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h47m00.411s :: 2022-12-21 03:56:38.671 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 03:55:40) :: null
+3.5 :: 0000d16h47m17.386s :: 2022-12-21 03:56:38.844 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h47m17.490s :: 2022-12-21 03:56:38.976 :: -2 :: C207A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d16h47m17.490s :: 2022-12-21 03:56:38.994 :: -3 :: C207A0:5 :: 3 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h47m17.516s :: 2022-12-21 03:56:39.080 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 paused :: null
+3.5 :: 0000d16h47m25.874s :: 2022-12-21 03:56:53.623 :: -2 :: C0A0:5 :: 1 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h47m35.242s :: 2022-12-21 03:57:04.611 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h47m30.979s :: 2022-12-21 03:57:18.964 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 03:57:16) :: null
+3.5 :: 0000d16h47m47.848s :: 2022-12-21 03:57:19.118 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h47m47.952s :: 2022-12-21 03:57:19.226 :: -2 :: C207A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d16h47m47.952s :: 2022-12-21 03:57:19.226 :: -3 :: C207A0:5 :: 3 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h47m47.978s :: 2022-12-21 03:57:19.318 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 paused :: null
+3.5 :: 0000d16h47m51.700s :: 2022-12-21 03:57:23.549 :: -2 :: C0A0:5 :: 1 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h48m06.564s :: 2022-12-21 03:57:40.558 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h48m07.403s :: 2022-12-21 03:58:00.710 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 03:57:58) :: null
+3.5 :: 0000d16h48m24.266s :: 2022-12-21 03:58:00.824 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h48m24.370s :: 2022-12-21 03:58:00.938 :: -2 :: C207A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d16h48m24.370s :: 2022-12-21 03:58:00.943 :: -3 :: C207A0:5 :: 3 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h48m24.396s :: 2022-12-21 03:58:00.945 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 paused :: null
+3.5 :: 0000d16h48m32.620s :: 2022-12-21 03:58:10.339 :: -2 :: C0A0:5 :: 1 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h48m37.090s :: 2022-12-21 03:58:15.461 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h48m28.303s :: 2022-12-21 03:58:25.034 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 03:57:58) :: null
+3.5 :: 0000d16h48m45.298s :: 2022-12-21 03:58:25.360 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h48m45.402s :: 2022-12-21 03:58:25.473 :: -2 :: C207A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d16h48m45.402s :: 2022-12-21 03:58:25.474 :: -3 :: C207A0:5 :: 3 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h48m45.428s :: 2022-12-21 03:58:25.698 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 paused :: null
+3.5 :: 0000d16h49m01.658s :: 2022-12-21 03:58:44.419 :: -2 :: C0A0:5 :: 1 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h49m04.108s :: 2022-12-21 03:58:47.234 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h49m03.313s :: 2022-12-21 03:59:05.530 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 03:59:03) :: null
+3.5 :: 0000d16h49m20.174s :: 2022-12-21 03:59:05.643 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h49m20.278s :: 2022-12-21 03:59:05.851 :: -2 :: C207A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d16h49m20.278s :: 2022-12-21 03:59:05.853 :: -3 :: C207A0:5 :: 3 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h49m20.304s :: 2022-12-21 03:59:05.855 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 paused :: null
+3.5 :: 0000d16h49m22.856s :: 2022-12-21 03:59:08.871 :: -2 :: C0A0:5 :: 1 :: 1 ::  ::  :: 0
+3.5 :: 0000d16h49m33.162s :: 2022-12-21 03:59:20.748 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h49m26.003s :: 2022-12-21 03:59:31.942 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Unsaved) :: null
+3.5 :: 0000d16h49m42.860s :: 2022-12-21 03:59:32.073 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h49m43.862s :: 2022-12-21 03:59:38.047 :: -3 :: C0A1:9 :: null :: 1 :: position: 'CANCELLED' ::  :: null
+3.5 :: 0000d16h49m47.874s :: 2022-12-21 03:59:38.073 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h50m04.841s :: 2022-12-21 04:00:17.366 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 04:00:16) :: null
+3.5 :: 0000d16h50m21.744s :: 2022-12-21 04:00:17.503 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h50m22.746s :: 2022-12-21 04:00:21.701 :: -3 :: C0A1:9 :: null :: 1 :: position: 1 ::  :: null
+3.5 :: 0000d16h50m58.324s :: 2022-12-21 04:01:03.369 :: -3 :: C0A1:9 :: null :: 1 :: position: 2 ::  :: null
+3.5 :: 0000d16h51m31.856s :: 2022-12-21 04:01:42.535 :: -3 :: C0A1:9 :: null :: 1 :: position: 'CANCELLED' ::  :: null
+3.5 :: 0000d16h51m33.944s :: 2022-12-21 04:01:42.571 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d16h55m58.673s :: 2022-12-21 04:07:10.973 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 04:07:08) :: null
+3.5 :: 0000d16h56m15.544s :: 2022-12-21 04:07:11.094 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d16h56m16.546s :: 2022-12-21 04:07:15.615 :: -3 :: C0A1:9 :: null :: 1 :: position: 1 ::  :: null
+3.5 :: 0000d16h56m44.100s :: 2022-12-21 04:07:44.597 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 paused :: null
+3.5 :: 0000d16h59m36.118s :: 2022-12-21 04:11:12.001 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 resumed :: null
+3.5 :: 0000d16h59m42.996s :: 2022-12-21 04:11:22.529 :: -3 :: C0A1:9 :: null :: 1 :: position: 'CANCELLED' ::  :: null
+3.5 :: 0000d16h59m45.020s :: 2022-12-21 04:11:22.679 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d17h02m13.199s :: 2022-12-21 04:14:35.268 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Unsaved) :: null
+3.5 :: 0000d17h02m30.060s :: 2022-12-21 04:14:35.394 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d17h02m31.062s :: 2022-12-21 04:14:37.981 :: -3 :: C0A1:9 :: null :: 1 :: position: 1 ::  :: null
+3.5 :: 0000d17h02m33.342s :: 2022-12-21 04:14:39.126 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d17h02m17.823s :: 2022-12-21 04:14:40.477 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Unsaved) :: null
+3.5 :: 0000d17h02m34.694s :: 2022-12-21 04:14:40.625 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d17h02m35.696s :: 2022-12-21 04:14:43.950 :: -3 :: C0A1:9 :: null :: 1 :: position: 2 ::  :: null
+3.5 :: 0000d17h03m09.976s :: 2022-12-21 04:15:23.806 :: -3 :: C0A1:9 :: null :: 1 :: position: 3 ::  :: null
+3.5 :: 0000d17h03m42.670s :: 2022-12-21 04:16:00.915 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+3.5 :: 0000d17h04m53.039s :: 2022-12-21 04:17:43.112 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program TransitionsCodeStructure/Transition_LensPick_v2 starting... (Last saved: 2022-12-21 04:17:35) :: null
+3.5 :: 0000d17h05m09.856s :: 2022-12-21 04:17:43.183 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 started :: null
+3.5 :: 0000d17h05m48.118s :: 2022-12-21 04:18:27.851 :: -3 :: C0A0:7 :: null :: 1 :: Transition_LensPick_v2 :: Program Transition_LensPick_v2 stopped :: null
+******** Log end (2022-12-21 10:22:17) ********
+
+******** Log start (2022-12-22 03:34:19) ********
+
+3.5 :: 0000d22h14m33.843s :: 2022-12-22 03:34:28.819 :: -5 :: C0A0:0 :: null :: 1 :: URSoftware 5.12.4.1101661 (Aug 31 2022) s/n: 20195299999 : UR10 ::  :: null
+3.5 :: 0000d22h14m33.843s :: 2022-12-22 03:34:28.896 :: -5 :: C0A0:7 :: null :: 1 ::  :: Connected to Controller :: null
+3.5 :: 0000d22h14m33.843s :: 2022-12-22 03:34:28.898 :: -2 :: C0A0:3 :: null :: 1 :: URControl 5.12.4.0 ::  :: null
+3.5 :: 0000d22h14m33.843s :: 2022-12-22 03:34:28.898 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d22h14m33.843s :: 2022-12-22 03:34:29.033 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d22h17m13.710s :: 2022-12-22 03:37:47.716 :: -2 :: C0A0:12 :: null :: 1 :: URSafetyA 0: URSafetyB 0 ::  :: null
+3.5 :: 0000d22h17m00.035s :: 2022-12-22 03:37:47.877 :: -5 :: C0A0:7 :: null :: 1 ::  :: Safety checksum changed to: CCCCCCCC :: null
+3.5 :: 0000d22h32m02.223s :: 2022-12-22 03:55:37.576 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d22h32m15.976s :: 2022-12-22 03:55:37.703 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d22h32m15.990s :: 2022-12-22 03:55:37.734 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d22h32m33.934s :: 2022-12-22 03:55:59.753 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d22h32m55.131s :: 2022-12-22 03:56:42.020 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d22h33m08.934s :: 2022-12-22 03:56:42.119 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d22h33m08.948s :: 2022-12-22 03:56:42.214 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d22h33m29.742s :: 2022-12-22 03:57:09.247 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
+3.5 :: 0000d22h33m17.453s :: 2022-12-22 03:57:10.921 :: -5 :: C0A0:7 :: null :: 1 ::  :: Program <unnamed> starting... (Unsaved) :: null
+3.5 :: 0000d22h33m31.228s :: 2022-12-22 03:57:10.940 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> started :: null
+3.5 :: 0000d22h33m31.242s :: 2022-12-22 03:57:11.049 :: -3 :: C218A0:6 :: null :: 2 ::  ::  :: 0
+3.5 :: 0000d22h34m14.332s :: 2022-12-22 03:58:02.156 :: -3 :: C0A0:7 :: null :: 1 :: unnamed :: Program <unnamed> stopped :: null
