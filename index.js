@@ -103,7 +103,7 @@ app.put("/steaming",async(req,res)=>{
     //console.log(findSelect);
 });
 
-app.get("/readdevice",async(req,res)=>{
+app.get("/readdevice",async(res)=>{
     const names = "ur10e";
     const _deviceIORead = await DeviceReadIO.findOne({names});
     res.status(200).json(_deviceIORead);
