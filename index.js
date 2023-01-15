@@ -18,7 +18,7 @@ const nets = networkInterfaces();
 const sftpClient = new Client();
 const Performance = require('./model/performance')
 const Steamming = require('./model/streaming')
-const DeviceReadIO = require('./model/deviceIORead')
+const DeviceReadIO = require('./model/deviceIORead.js')
 
 app.use(cors());
 app.use(express.json());
